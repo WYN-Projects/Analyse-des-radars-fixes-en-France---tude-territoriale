@@ -12,7 +12,6 @@ L’objectif est double :
 ## Technologies utilisées
 
 - SQL Server
-- T-SQL
 - Power BI
 - Excel 
 - Power Query
